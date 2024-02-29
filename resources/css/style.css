@@ -1,0 +1,68 @@
+body {
+
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.cta {
+    color: aquamarine;
+    font-size: 16px;
+
+}
+
+video {
+    justify-content: center;
+    height: 700px;
+}
+
+
+
+h2 {
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+    font-family: verdana;
+
+}
+
+.camps {
+    align-items: center;
+    margin: auto;
+}
+
+.logo {
+    height: 100px;
+    width: 50px;
+    justify-content: center;
+    margin-top: 50px;
+    align-content: space-between;
+}
+
+.information {
+    color: white;
+    font-size: 50px;
+}
+.cta2 {
+    color: aquamarine;
+    font-size: 16px;
+}
+
